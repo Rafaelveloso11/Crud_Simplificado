@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    Business.Pagina paginas = ViewBag.Pagina;
+    Layout = "~/Views/Shared/_Render.cshtml";
+}
+
+
+
+<div class="container">
+    @Html.Raw(paginas.Conteudo)
+
+
+</div>
+

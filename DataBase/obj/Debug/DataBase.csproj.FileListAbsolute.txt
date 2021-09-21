@@ -1,0 +1,6 @@
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\DataBase\bin\Debug\DataBase.dll
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\DataBase\bin\Debug\DataBase.pdb
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.dll
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\DataBase\obj\Debug\DataBase.pdb

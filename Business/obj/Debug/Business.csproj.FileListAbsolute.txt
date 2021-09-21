@@ -1,0 +1,9 @@
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\Business\bin\Debug\Business.dll
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\Business\bin\Debug\Business.pdb
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\Business\bin\Debug\DataBase.dll
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\Business\bin\Debug\DataBase.pdb
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.dll
+C:\Curso .NET\MVC\MVC_GerenciadorDeConteudo\Business\obj\Debug\Business.pdb
